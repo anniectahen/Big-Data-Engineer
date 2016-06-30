@@ -1,6 +1,8 @@
 # Big-Data-Engineer
 
+
 About this Job
+
 This is a remote technical support role (NOT call center) who should be an expert in various IT areas and provide timely and professional troubleshooting advice and architectural best practice to customers via support cases and occasional on-site visits. Within the team, we have gurus used to work on Linux kernel drivers, with PhD in High-Performance Computing (HPC) and as senior networking Operation & Maintenance (O&M) engineer. 
 
 We are seeking people with strong technical skills. Experience with Big Data and/or Database (MySQL, SQL Server, Oracle)
@@ -14,7 +16,9 @@ We are seeking people with strong technical skills. Experience with Big Data and
 •Write tutorials, how-to videos, and other technical articles for the AWS customer community
 •Work on critical, highly complex customer problems that may span multiple AWS services
 
+
 Basic Qualification
+
 •Strong customer focus
 •Strong knowledge of and experience with one of Hadoop, Pig, Hive, Spark, Hbase etc.
 •Experience processing large amounts of structured and unstructured data.
